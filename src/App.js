@@ -12,6 +12,7 @@ const products = [
   { name: 'Product 8', logo: './images/image.png' },
   { name: 'Product 9', logo: './images/image.png' },
   { name: 'Product 10', logo: './images/image.png' },
+
 ];
 
 function App() {
