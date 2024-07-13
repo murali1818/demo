@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 
 const products = [
-  { name: 'Product 1', logo: '/images/image.png' },
+  { name: 'Product 1', logo: './images/image.png' },
   { name: 'Product 2', logo: '/images/image.png' },
   { name: 'Product 3', logo: '/images/image.png' },
   { name: 'Product 4', logo: '/images/image.png' },
