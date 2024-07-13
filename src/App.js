@@ -21,7 +21,7 @@ function App() {
       <div className="product-grid">
         {products.map((product, index) => (
           <div key={index} className="product-card">
-            <img src={product.logo} alt={product.name} className="product-image" />
+            <img src="/images/image.png"alt={product.name} className="product-image" />
             <h2>{product.name}</h2>
           </div>
         ))}
